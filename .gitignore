@@ -1,0 +1,7 @@
+
+# Pastas de ambiente virtual do Python 
+venv/
+__pycache__/
+.env
+*.pyc
+.DS_Store
